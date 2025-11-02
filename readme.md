@@ -37,4 +37,9 @@ for (let i = 0; i < dec8.length; i += recordSize) {
 
 ## License
 
-MIT © Norbert Szabo
+This project is licensed under the [MIT License](./LICENSE).
+
+## Author
+
+**mostly Nathan Rugg**  
+and 1% Norbert Szabo
