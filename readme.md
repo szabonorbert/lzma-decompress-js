@@ -1,16 +1,16 @@
 # lzma-decompress-js
 
 A standalone JavaScript implementation of the LZMA decompression algorithm.  
-Written in pure JS, works everywhere: **Node.js**, **browsers**, **Cloudflare Workers**, and so on, with **no dependencies**.
+Written in pure JS, works everywhere: **Node.js**, **browsers**, **Cloudflare Workers**, and more, with **no dependencies**.
 
-Originally grabed from [LZMA-JS repository (MIT)](https://github.com/LZMA-JS/LZMA-JS),
+Originally grabbed from [LZMA-JS repository (MIT)](https://github.com/LZMA-JS/LZMA-JS),
 I just made some tiny changes to make it work everywhere.
 
 ## Installation
 
 Just download the file and include it in your project - no build tools required.
 
-## Dukascopy .bi5
+## Dukascopy `.bi5`
 
 I’m 99% sure you came here to decompress **Dukascopy `.bi5`** data. 
 Here's how you can do that:
