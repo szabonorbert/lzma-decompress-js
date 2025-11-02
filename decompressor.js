@@ -1,5 +1,5 @@
 /// Norbert Szabo
-/// https://github.com/norbertszabo
+/// https://github.com/szabonorbert
 /// 2025-11-02
 /// MIT License
 
